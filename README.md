@@ -5,7 +5,7 @@ A React app to track your expenses with dynamic UI and data persistence.
 ## Technologies Used
 - React.js (Hooks, Components)
 - JavaScript (ES6+)
-- CSS (or Tailwind, if used)
+- CSS
 - LocalStorage
 
 ## Features
